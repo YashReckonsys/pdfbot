@@ -143,7 +143,7 @@ typing_extensions==4.8.0
 tzdata==2023.3
 urllib3==2.0.6
 # uvicorn==0.23.2
-uvloop==0.18.0
+uvloop==0.19.0
 watchfiles==0.21.0
 websockets==11.0.3
 yarl==1.9.2
